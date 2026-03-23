@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00EFE7&height=200&section=header&text=Julian%20Campeão&fontSize=40&fontColor=ffffff"/>
-<h1 align="center">Olá! Seja Bem Vindo ao meu Perfil!</h1>
-<h1 align="center">Meu nome é Julian Campeão</h1>
-<h3 align="center">Sou Estudante do curso de Engenharia de Software na UNIBRASIL</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=41E0E2&height=200&section=header"/>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=28&center=true&vCenter=true&width=1000&lines=Olá!+Seja+Bem+Vindo+ao+meu+Perfil!;Meu+nome+é+Julian+Campeão;Sou+Estudante+de+Engenharia+de+Software+na+UNIBRASIL"/>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
