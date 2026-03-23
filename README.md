@@ -1,6 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=200&section=header&text=Julian%20Campeão&fontSize=40&fontColor=ffffff"/>
-<h1 align="center">Olá! Julian Campeão</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00EFE7&height=200&section=header&text=Julian%20Campeão&fontSize=40&fontColor=ffffff"/>
+<h1 align="center">Olá! Seja Bem Vindo ao meu Perfil!</h1>
+<h1 align="center">Meu nome é Julian Campeão</h1>
+<h3 align="center">Sou Estudante do curso de Engenharia de Software na UNIBRASIL</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
